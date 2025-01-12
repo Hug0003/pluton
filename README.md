@@ -1,8 +1,7 @@
 # Pluton
 
 ## 📄 Description
-C'est un jeu en 2d, c'est une carte avec plein d'ile volante dont une plus grosse avec une maison et une grotte avec un portail qui vouz téléporte dans une grotte, le personnage peut se déplacer à gauche à droite
-et sauté, tout ça en python
+C'est un jeu en 2D qui se déroule sur une carte composée de nombreuses îles volantes. Parmi elles, une île plus grande abrite une maison et une grotte. Dans cette grotte, un portail permet de téléporter le personnage vers une autre grotte. Le personnage peut se déplacer horizontalement (à gauche et à droite) et sauter. Le tout est développé en Python.
 
 ## 🎥 Démo Visuelle
 ![Capture d'écran 2025-01-12 1](https://github.com/user-attachments/assets/38b67f91-4142-4c9c-9a80-a0b964d481f5)
